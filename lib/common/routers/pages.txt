@@ -1,0 +1,181 @@
+
+      GetPage(
+        name: RouteNames.chatChatDetail,
+        page: () => const ChatDetailPage(),
+      ),
+      GetPage(
+        name: RouteNames.chatForwardContact,
+        page: () => const ForwardContactPage(),
+      ),
+      GetPage(
+        name: RouteNames.chatForwardConversation,
+        page: () => const ForwardConversationPage(),
+      ),
+      GetPage(
+        name: RouteNames.chatForwardGroup,
+        page: () => const ForwardGroupPage(),
+      ),
+      GetPage(
+        name: RouteNames.chat,
+        page: () => const ChatPage(),
+      ),
+      GetPage(
+        name: RouteNames.chatWidgetsChatInputWidget,
+        page: () => const ChatInputWidgetPage(),
+      ),
+      GetPage(
+        name: RouteNames.contactsContactsAddFriend,
+        page: () => const AddFriendPage(),
+      ),
+      GetPage(
+        name: RouteNames.contactsContactsUpdateRemark,
+        page: () => const UpdateRemarkPage(),
+      ),
+      GetPage(
+        name: RouteNames.contactsContactsUserDetail,
+        page: () => const UserDetailPage(),
+      ),
+      GetPage(
+        name: RouteNames.contactsContactsFriendApplyList,
+        page: () => const FriendApplyListPage(),
+      ),
+      GetPage(
+        name: RouteNames.contactsContacts,
+        page: () => const ContactsPage(),
+      ),
+      GetPage(
+        name: RouteNames.contactsContactsSelectContacts,
+        page: () => const SelectContactsPage(),
+      ),
+      GetPage(
+        name: RouteNames.conversationsConversations,
+        page: () => const ConversationsPage(),
+      ),
+      GetPage(
+        name: RouteNames.groupMyGroupChangeGroupNick,
+        page: () => const ChangeGroupNickPage(),
+      ),
+      GetPage(
+        name: RouteNames.groupMyGroupGroupDetail,
+        page: () => const GroupDetailPage(),
+      ),
+      GetPage(
+        name: RouteNames.groupMyGroupGroupManageGroupMemberSettingGroupManagerSetting,
+        page: () => const GroupManagerSettingPage(),
+      ),
+      GetPage(
+        name: RouteNames.groupMyGroupGroupManageGroupMemberSettingGroupMuteSetting,
+        page: () => const GroupMuteSettingPage(),
+      ),
+      GetPage(
+        name: RouteNames.groupMyGroupGroupManageGroupMemberSetting,
+        page: () => const GroupMemberSettingPage(),
+      ),
+      GetPage(
+        name: RouteNames.groupMyGroupGroupManage,
+        page: () => const GroupManagePage(),
+      ),
+      GetPage(
+        name: RouteNames.groupMyGroup,
+        page: () => const MyGroupPage(),
+      ),
+      GetPage(
+        name: RouteNames.groupMyGroupSetGroupAvatar,
+        page: () => const SetGroupAvatarPage(),
+      ),
+      GetPage(
+        name: RouteNames.groupMyGroupSetGroupName,
+        page: () => const SetGroupNamePage(),
+      ),
+      GetPage(
+        name: RouteNames.groupMyGroupSetGroupNotice,
+        page: () => const SetGroupNoticePage(),
+      ),
+      GetPage(
+        name: RouteNames.groupMyGroupShowGroupNotice,
+        page: () => const ShowGroupNoticePage(),
+      ),
+      GetPage(
+        name: RouteNames.mineAboutUs,
+        page: () => const AboutUsPage(),
+      ),
+      GetPage(
+        name: RouteNames.mineAccountSafetyChangePassword,
+        page: () => const ChangePasswordPage(),
+      ),
+      GetPage(
+        name: RouteNames.mineAccountSafety,
+        page: () => const AccountSafetyPage(),
+      ),
+      GetPage(
+        name: RouteNames.mineMessageNotification,
+        page: () => const MessageNotificationPage(),
+      ),
+      GetPage(
+        name: RouteNames.mineUserInfomationChangeNickname,
+        page: () => const ChangeNicknamePage(),
+      ),
+      GetPage(
+        name: RouteNames.mineUserInfomationMyQrCode,
+        page: () => const MyQrCodePage(),
+      ),
+      GetPage(
+        name: RouteNames.mineUserInfomation,
+        page: () => const UserInfomationPage(),
+      ),
+      GetPage(
+        name: RouteNames.mineVersionCheck,
+        page: () => const VersionCheckPage(),
+      ),
+      GetPage(
+        name: RouteNames.mineMine,
+        page: () => const MinePage(),
+      ),
+      GetPage(
+        name: RouteNames.minePrivacySetting,
+        page: () => const PrivacySettingPage(),
+      ),
+      GetPage(
+        name: RouteNames.stylesButtons,
+        page: () => const ButtonsPage(),
+      ),
+      GetPage(
+        name: RouteNames.stylesIcon,
+        page: () => const IconPage(),
+      ),
+      GetPage(
+        name: RouteNames.stylesImage,
+        page: () => const ImagePage(),
+      ),
+      GetPage(
+        name: RouteNames.stylesInputs,
+        page: () => const InputsPage(),
+      ),
+      GetPage(
+        name: RouteNames.stylesStyleIndex,
+        page: () => const StyleIndexPage(),
+      ),
+      GetPage(
+        name: RouteNames.stylesText,
+        page: () => const TextPage(),
+      ),
+      GetPage(
+        name: RouteNames.systemLogin,
+        page: () => const LoginPage(),
+      ),
+      GetPage(
+        name: RouteNames.systemMain,
+        page: () => const MainPage(),
+      ),
+      GetPage(
+        name: RouteNames.systemQrcodeScanner,
+        page: () => const QrcodeScannerPage(),
+      ),
+      GetPage(
+        name: RouteNames.systemRegister,
+        page: () => const RegisterPage(),
+      ),
+      GetPage(
+        name: RouteNames.systemSplash,
+        page: () => const SplashPage(),
+      ),

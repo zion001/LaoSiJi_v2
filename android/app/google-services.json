@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1083752226602",
+    "project_id": "xkxim-f8033",
+    "storage_bucket": "xkxim-f8033.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083752226602:android:54c334c42baa3e5f0e8853",
+        "android_client_info": {
+          "package_name": "im_flutter.xkim.com.im_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083752226602-lrtcfroka3o91nncpvbehll2df4mdcao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWjEYHsGZeRVh44rPjB8pk8h7KQiJuDBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083752226602-lrtcfroka3o91nncpvbehll2df4mdcao.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1083752226602-ku48dcfikpa0rask8umjqhm32jvdmu2k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "imflutter.xkim.com.imFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
